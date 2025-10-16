@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #f4f4f4;
+  background-color: #f4f4f5;
   padding: 20px;
 }
 
@@ -132,3 +132,4 @@ input, select {
 .delete-btn:hover {
   background: darkred;
 }
+
